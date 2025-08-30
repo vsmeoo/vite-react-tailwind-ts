@@ -8,7 +8,7 @@ import { Pricing } from "./components/sections/Pricing";
 import { CTA } from "./components/sections/CallToAction";
 
 function App() {
-  return  <Layout title="Hello">
+  return  <Layout title="EdgeAI">
     <Hero />
     <Brands />
     <Services />
